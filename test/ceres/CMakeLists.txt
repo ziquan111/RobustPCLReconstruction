@@ -17,7 +17,7 @@ if( Ceres_FOUND )
     ADD_TEST( ${test_src} ${test_src} )
   ENDFOREACH(test_src)
 
-  SET ( ROBUSTPCLRECONSTRUCTION_SOURCES gaussian_em_one)
+  SET ( ROBUSTPCLRECONSTRUCTION_SOURCES gaussian_em_one cauchy_em)
 
   FOREACH(robust_src ${ROBUSTPCLRECONSTRUCTION_SOURCES})
     ADD_EXECUTABLE( ${robust_src} ${robust_src}.cpp local_parameterization_se3)

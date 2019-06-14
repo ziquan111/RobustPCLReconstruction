@@ -18,7 +18,7 @@
 
 #include "local_parameterization_se3.hpp"
 
-#define NUM_ITERATION_EM 1000
+#define NUM_ITERATION_EM 100
 
 #define EPSILON 6                             // upper bound of feature matching errors, used in Eq. (27)
 #define M_HAT EPSILON * EPSILON               // mean error, used in Eq. (27)
