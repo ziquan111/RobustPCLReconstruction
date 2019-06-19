@@ -1,5 +1,8 @@
 # RobustPCLReconstruction
 
+## Demo video for an application in UAV-UGV collabrative SLAM
+[![Watch the video](https://img.youtube.com/vi/ZZQT_REkItU/hqdefault.jpg)](https://www.youtube.com/watch?v=ZZQT_REkItU)
+
 ## Overview
 
 This repository contains the solvers based on our paper [Robust Point Cloud Based Reconstruction of Large-Scale Outdoor Scenes](https://arxiv.org/abs/1905.09634) in CVPR2019.
