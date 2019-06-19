@@ -1,7 +1,7 @@
 # RobustPCLReconstruction
 
 ## Demo video for an application in UAV-UGV collabrative SLAM
-[![Watch the video](https://img.youtube.com/vi/ZZQT_REkItU/hqdefault.jpg)](https://www.youtube.com/watch?v=ZZQT_REkItU)
+[![Watch the video](https://github.com/ziquan111/RobustPCLReconstruction/raw/master/figure_coslam_demo.png)](https://www.youtube.com/watch?v=ZZQT_REkItU)
 
 ## Overview
 
